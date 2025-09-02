@@ -1,4 +1,4 @@
-## [1.0.0] - 2025-09-02
+## [1.0.1] - 2025-09-02
 
 ### 🚀 Features
 
@@ -17,3 +17,4 @@
 ### ⚙️ Miscellaneous Tasks
 
 - Bump version to 1.0.1-snapshot
+- Update Go and dependencies to latest versions
